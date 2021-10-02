@@ -1,0 +1,2017 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.18f1 (a7d1c678663c) revision 10998214'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1237; Version 2009; 64bit' Language: 'es' Physical Memory: 8140 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/PC.DESKTOP-0UQG9G5/Desktop/DERV/DERV_1_Unidad_1_progs
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60807
+Successfully changed project path to: C:/Users/PC.DESKTOP-0UQG9G5/Desktop/DERV/DERV_1_Unidad_1_progs
+C:/Users/PC.DESKTOP-0UQG9G5/Desktop/DERV/DERV_1_Unidad_1_progs
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 39.35 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.18f1 (a7d1c678663c)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PC.DESKTOP-0UQG9G5/Desktop/DERV/DERV_1_Unidad_1_progs/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 570 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   27.20.1034.6
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/Program Files/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.006423 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 36.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.503 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1504ms)
+		BeginReloadAssembly (84ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (439ms)
+			LoadAssemblies (80ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (153ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (29ms)
+			SetupLoadedEditorAssemblies (169ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (14ms)
+				ProcessInitializeOnLoadAttributes (81ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004696 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.107 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1108ms)
+		BeginReloadAssembly (176ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (851ms)
+			LoadAssemblies (108ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (277ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (103ms)
+				ProcessInitializeOnLoadAttributes (197ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1477 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.9 MB.
+System memory in use after: 91.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1945.
+Total: 2.844100 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.037800 ms MarkObjects: 2.557300 ms  DeleteObjects: 0.087100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Proyecto/Hospital Scene 1.unity
+  artifactKey: Guid(650d66c5c9223fb4da3a82098f436413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Proyecto/Hospital Scene 1.unity using Guid(650d66c5c9223fb4da3a82098f436413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ac781ca2358f8fdcce8f203ba0bdb2') in 0.044286 seconds 
+  Import took 0.047657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.521916 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Meshes/Materials/LightShape.mat
+  artifactKey: Guid(d380add981a51514ab244cdc8488adfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Meshes/Materials/LightShape.mat using Guid(d380add981a51514ab244cdc8488adfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5365d762ee1f6f9ea05df1580d79c6f1') in 0.416227 seconds 
+  Import took 0.420036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017415 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Light.mat
+  artifactKey: Guid(532d6e27f4309e74e9d6fe44d87cedc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Light.mat using Guid(532d6e27f4309e74e9d6fe44d87cedc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bdada22e590cac80ee144aff94b86a2') in 0.025524 seconds 
+  Import took 0.029229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061162 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Lamp/Lamp.FBX
+  artifactKey: Guid(ed676e4f39c168549bec09ecb638c51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Lamp/Lamp.FBX using Guid(ed676e4f39c168549bec09ecb638c51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '128993d4fc02da5f22af55a78b33c105') in 0.315004 seconds 
+  Import took 0.318068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057549 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_R.TGA
+  artifactKey: Guid(300acc0be6e47024690a4baa38095d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_R.TGA using Guid(300acc0be6e47024690a4baa38095d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8079d45ec04a3fe93395e196f51faae3') in 0.127739 seconds 
+  Import took 0.131313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.200965 seconds.
+  path: Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_BaseColor.tga
+  artifactKey: Guid(a01c64ac34e304048907074169472649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_BaseColor.tga using Guid(a01c64ac34e304048907074169472649) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15dc24f1ccc1acb9c1681e24c1c95d4a') in 0.047606 seconds 
+  Import took 0.050542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010616 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Steps.wav
+  artifactKey: Guid(f8c14f2814b4b124a894a65c32c44987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Steps.wav using Guid(f8c14f2814b4b124a894a65c32c44987) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '241b92ad3dc863ec391db671828a6d00') in 0.069433 seconds 
+  Import took 0.072423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007544 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Landing/Landing 3.wav
+  artifactKey: Guid(50b288ce0d5ac1e439827c5365c74c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Landing/Landing 3.wav using Guid(50b288ce0d5ac1e439827c5365c74c31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef934c7174bb835eb3719c07820b025') in 0.011554 seconds 
+  Import took 0.014335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013359 seconds.
+  path: Assets/Prefabs/SweetHome/Hospital SH/NewLayer 1.terrainlayer
+  artifactKey: Guid(13d3cb7ab8765d54bae355db94eb641f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Hospital SH/NewLayer 1.terrainlayer using Guid(13d3cb7ab8765d54bae355db94eb641f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84748b2860d22e1c79bcd2f5becf8b0') in 0.061281 seconds 
+  Import took 0.064647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146857 seconds.
+  path: Assets/Prefabs/Houses_Pack/Textures/House_2.psd
+  artifactKey: Guid(b52374f1159b18b41b52202cdccd740c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Textures/House_2.psd using Guid(b52374f1159b18b41b52202cdccd740c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e0a087c6a5b456ebc5f6bc87d509b9') in 0.051909 seconds 
+  Import took 0.056924 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009498 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Bed_01.obj
+  artifactKey: Guid(b47f5c9ac3a4adc4582f259efbe3c8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Bed_01.obj using Guid(b47f5c9ac3a4adc4582f259efbe3c8e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3ef9ef3e3410a01f3dd3d7c122d40f') in 0.086774 seconds 
+  Import took 0.089634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008067 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+  artifactKey: Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs using Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e5dccdab34db2c15581406431a55162') in 0.016782 seconds 
+  Import took 0.019780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006721 seconds.
+  path: Assets/Prefabs/SweetHome/Hospital SH/NewLayer.terrainlayer
+  artifactKey: Guid(dc1b1c72aea71d942aeccbb90bcde035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Hospital SH/NewLayer.terrainlayer using Guid(dc1b1c72aea71d942aeccbb90bcde035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d966a80c23a20e41e99f03fc9dad7b5') in 0.015197 seconds 
+  Import took 0.018163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007504 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/WallDoorway/Materials/WallDiffuse.mat
+  artifactKey: Guid(3479286f14756024999524220a2d53b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/WallDoorway/Materials/WallDiffuse.mat using Guid(3479286f14756024999524220a2d53b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ef6fc3c3d46f62f62abbfec1deeee2') in 0.011886 seconds 
+  Import took 0.014695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058390 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_Normal.png
+  artifactKey: Guid(65c1e9ac570f71244860706c1e7cf6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_Normal.png using Guid(65c1e9ac570f71244860706c1e7cf6e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fe7e4644a098ff83a5aaa11d042be2d') in 0.076885 seconds 
+  Import took 0.080794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008664 seconds.
+  path: Assets/Prefabs/SweetHome/Bodega SH/Bodega_Gris_wall_10_57.jpeg
+  artifactKey: Guid(5231d6d563b0db842b20be0ab51650b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Bodega SH/Bodega_Gris_wall_10_57.jpeg using Guid(5231d6d563b0db842b20be0ab51650b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855b8503c6fc41eb8d61c3ac642b03b2') in 0.012750 seconds 
+  Import took 0.015734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.171006 seconds.
+  path: Assets/Prefabs/Houses_Pack/Textures/House_1.psd
+  artifactKey: Guid(866347ebc60a0ec469ef74d1716abd41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Textures/House_1.psd using Guid(866347ebc60a0ec469ef74d1716abd41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cb3a58344c51ef15b4ac601e0465b31') in 0.056444 seconds 
+  Import took 0.060751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068959 seconds.
+  path: Assets/Prefabs/small_town_america/general/textures/street/general_sidewalk_markings_m.tga
+  artifactKey: Guid(d4be0998de2776641883f05b924a8f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/textures/street/general_sidewalk_markings_m.tga using Guid(d4be0998de2776641883f05b924a8f22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e68addec76cbe832625cc35b138e473') in 0.017059 seconds 
+  Import took 0.019655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008370 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs
+  artifactKey: Guid(6f45facc01772ba47a9ae17bb7061b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/Components/FirstPersonAudio.cs using Guid(6f45facc01772ba47a9ae17bb7061b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e3064b28c92aefe77c236cd028d8864') in 0.006493 seconds 
+  Import took 0.009606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022047 seconds.
+  path: Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_Normal.png
+  artifactKey: Guid(07e685123e89d2849b8bbc1e59732c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_Normal.png using Guid(07e685123e89d2849b8bbc1e59732c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41f4e7d7d022ea60321788440478ede') in 0.018988 seconds 
+  Import took 0.021853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007562 seconds.
+  path: Assets/Scripts/Triggers_Ex.cs
+  artifactKey: Guid(db0d5b73458d63c4d9f9b7c2b9a4ef07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Triggers_Ex.cs using Guid(db0d5b73458d63c4d9f9b7c2b9a4ef07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c8e197853ddadbf80a892f784d76d68') in 0.005784 seconds 
+  Import took 0.008469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007320 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+  artifactKey: Guid(e32c266ee6204b21a427753cb0694c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs using Guid(e32c266ee6204b21a427753cb0694c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de41d4d0f76078700d9951e210b27e20') in 0.005882 seconds 
+  Import took 0.008891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007416 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+  artifactKey: Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs using Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a071afc83576b07f1bf56e3548c81d40') in 0.006145 seconds 
+  Import took 0.008812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007055 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+  artifactKey: Guid(686ec78b56aa445795335fbadafcfaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs using Guid(686ec78b56aa445795335fbadafcfaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f47fe7cc5a07c23889adfb996372710c') in 0.006501 seconds 
+  Import took 0.009082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007595 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_01.obj
+  artifactKey: Guid(3565346867580db48870fbcfd66de77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_01.obj using Guid(3565346867580db48870fbcfd66de77b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e7fbdf6847c206f0f94c726776e86c0') in 0.020267 seconds 
+  Import took 0.023020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009123 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/SD/SD.FBX
+  artifactKey: Guid(6468c9a8e17142b4ca0f0ec3570361ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/SD/SD.FBX using Guid(6468c9a8e17142b4ca0f0ec3570361ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f7b9748f48ca1566b9f8321a470320') in 0.018464 seconds 
+  Import took 0.021232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022278 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Ambulance_1.mat
+  artifactKey: Guid(b240d983d8aee554798355594c3b397e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Ambulance_1.mat using Guid(b240d983d8aee554798355594c3b397e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f461ca2318effe65c446faf50f5b3322') in 0.132685 seconds 
+  Import took 0.139070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021734 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+  artifactKey: Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab using Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e24deebdb9b049aaa6de3c3ea9f051') in 0.170936 seconds 
+  Import took 0.182301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007083 seconds.
+  path: Assets/Prefabs/Houses_Pack/Materials/House_2.mat
+  artifactKey: Guid(3779002b4fd983d409f96ee6684e9df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Materials/House_2.mat using Guid(3779002b4fd983d409f96ee6684e9df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aacee9ae9589aa140b23a3dfa3397d1') in 0.049207 seconds 
+  Import took 0.054712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048316 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_MetallicSmoothness.png
+  artifactKey: Guid(8691198357cb6db4c9f7a3f7d32dc240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_MetallicSmoothness.png using Guid(8691198357cb6db4c9f7a3f7d32dc240) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'effda5dba9c2d3f6e89593a107064c7e') in 0.043035 seconds 
+  Import took 0.047413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008460 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01_G.mat
+  artifactKey: Guid(52c326e58d79dae4b84c4fe3a0970284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01_G.mat using Guid(52c326e58d79dae4b84c4fe3a0970284) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e92b4bae0dcd310a80f0b17270e4ac0d') in 0.028876 seconds 
+  Import took 0.031908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015467 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch start 3.wav
+  artifactKey: Guid(3e0e4a1bf1a03c24a85ad855f4be231e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch start 3.wav using Guid(3e0e4a1bf1a03c24a85ad855f4be231e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '618e7cf530ddeb994ddb60e7d7ef0554') in 0.011963 seconds 
+  Import took 0.014489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058468 seconds.
+  path: Assets/Prefabs/Horror Assets/Textures/WheelChair_Normal.png
+  artifactKey: Guid(1b17524b56d7896429dd0d14883003cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Textures/WheelChair_Normal.png using Guid(1b17524b56d7896429dd0d14883003cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1b47a1455754e928e04cd0238d9d0c8') in 0.019732 seconds 
+  Import took 0.022243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008841 seconds.
+  path: Assets/Prefabs/Horror Assets/Models/WheelChair.fbx
+  artifactKey: Guid(d115b4a4e2ada51408d48d73f144e125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Models/WheelChair.fbx using Guid(d115b4a4e2ada51408d48d73f144e125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cfe5ee88d2382843ff6c8ffdef3b2ec') in 0.025407 seconds 
+  Import took 0.028545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021191 seconds.
+  path: Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_MetallicSmoothness.png
+  artifactKey: Guid(4fc31ea4e0ae54047a883f419a4c1941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_MetallicSmoothness.png using Guid(4fc31ea4e0ae54047a883f419a4c1941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a0a98e5a743d0624a5028b6c77a1ae') in 0.017010 seconds 
+  Import took 0.020067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017359 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+  artifactKey: Guid(43bcd35a1c0c40ccb6d472893fe2093f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs using Guid(43bcd35a1c0c40ccb6d472893fe2093f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6aef20d0b67275df9e6f15463b9db84') in 0.006551 seconds 
+  Import took 0.009592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008629 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Jump/Jump 2.wav
+  artifactKey: Guid(5b26cf3cd5f6b914a80e6d3476caaf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Jump/Jump 2.wav using Guid(5b26cf3cd5f6b914a80e6d3476caaf86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '042303beaf373b20f4e0e026f9a6c32f') in 0.012196 seconds 
+  Import took 0.015275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015610 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Ambulance.fbx
+  artifactKey: Guid(337794951fad02e49bb8f64d8d925802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Ambulance.fbx using Guid(337794951fad02e49bb8f64d8d925802) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761ebd05a6576d72edd0050b934324f3') in 0.958862 seconds 
+  Import took 0.971231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008249 seconds.
+  path: Assets/Prefabs/small_town_america/general/materials/street_pavement.mat
+  artifactKey: Guid(db31076ba1760ef4f9c335f799c085ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/materials/street_pavement.mat using Guid(db31076ba1760ef4f9c335f799c085ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0696de68ea7018b5f6064573bbb03f53') in 0.025359 seconds 
+  Import took 0.028834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007777 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/SD/mSD.mat
+  artifactKey: Guid(4576faa75149c8c4899f7f48951da25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/SD/mSD.mat using Guid(4576faa75149c8c4899f7f48951da25c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4b32919eb365511ead9556ef37f2b5') in 0.027192 seconds 
+  Import took 0.030402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043286 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/FP650_Diffuse.png
+  artifactKey: Guid(f15bd22eba92b2c48b648c1a25950575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/FP650_Diffuse.png using Guid(f15bd22eba92b2c48b648c1a25950575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34567175d829752581409282dd002a54') in 0.028984 seconds 
+  Import took 0.031929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007937 seconds.
+  path: Assets/Materials/WhiteNoReflection.mat
+  artifactKey: Guid(9ef3fedbb7a52cd4e8095f03daf03217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/WhiteNoReflection.mat using Guid(9ef3fedbb7a52cd4e8095f03daf03217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3001cc2c9069e23c1fe173764e2363') in 0.012628 seconds 
+  Import took 0.015170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014921 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_Emission.png
+  artifactKey: Guid(9b769b9fc6aa2dd47a4e82f9e75c8a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_Emission.png using Guid(9b769b9fc6aa2dd47a4e82f9e75c8a71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12e171efd7d94c22ba5833ccb63b8777') in 0.022288 seconds 
+  Import took 0.025161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009471 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch end 2.wav
+  artifactKey: Guid(e6f44b6fce71be34dbbd6d12cb3d3b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch end 2.wav using Guid(e6f44b6fce71be34dbbd6d12cb3d3b8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '839323babdc32c65a68e826ed8db5efa') in 0.011633 seconds 
+  Import took 0.014473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027079 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+  artifactKey: Guid(a73109742c8d47ac822895a473300c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs using Guid(a73109742c8d47ac822895a473300c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17646aaadeb8850eba504509ee5659ac') in 0.005726 seconds 
+  Import took 0.008130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007354 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/Components/Crouch.cs
+  artifactKey: Guid(27b67ddb3d23b8340b125aede56d7e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/Components/Crouch.cs using Guid(27b67ddb3d23b8340b125aede56d7e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd743e361b58cc8b7c3a05dff68cca013') in 0.006830 seconds 
+  Import took 0.009860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007645 seconds.
+  path: Assets/Prefabs/Electrical Substation/Prefabs/SM_Electrical_Substation.prefab
+  artifactKey: Guid(9c5bae8b85a897242bf43786c980d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Prefabs/SM_Electrical_Substation.prefab using Guid(9c5bae8b85a897242bf43786c980d021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9666f43dbbe906bff8861afc1419dac') in 0.345278 seconds 
+  Import took 0.351068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015296 seconds.
+  path: Assets/Scripts/ProyectoU1/Minigame_WhiteRoom.cs
+  artifactKey: Guid(f09144ed8b0452b4faaea18210c0b083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ProyectoU1/Minigame_WhiteRoom.cs using Guid(f09144ed8b0452b4faaea18210c0b083) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c8291da8e23d8827619bf260256bf67') in 0.006300 seconds 
+  Import took 0.008800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007110 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+  artifactKey: Guid(76c11bbcfddf44e0ba17d6c2751c8d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs using Guid(76c11bbcfddf44e0ba17d6c2751c8d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052c87d86e11b3a536008e0aa58cc1fe') in 0.005825 seconds 
+  Import took 0.008400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008366 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Med_box_01.FBX
+  artifactKey: Guid(18ce9342c786442408d15b750748b72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Med_box_01.FBX using Guid(18ce9342c786442408d15b750748b72c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0c99571e4df5ffe909e2d3d153c332') in 0.016326 seconds 
+  Import took 0.018817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008845 seconds.
+  path: Assets/Prefabs/Muro/Muro_Antiguo_wall_1_2.jpeg
+  artifactKey: Guid(4959d948323909b49b7ce455d407b1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Muro/Muro_Antiguo_wall_1_2.jpeg using Guid(4959d948323909b49b7ce455d407b1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e59f37c8123acccde0c5824c9ea59be') in 0.011631 seconds 
+  Import took 0.014142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052705 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/Textures/storage-1.tga
+  artifactKey: Guid(31f73c98adba42a4a8dab86b57520b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/Textures/storage-1.tga using Guid(31f73c98adba42a4a8dab86b57520b4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c1ad3ac52081f30112b36031721024') in 0.013643 seconds 
+  Import took 0.016675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008485 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_02.obj
+  artifactKey: Guid(2ec12a10dd1a99b498eec7fd09146b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Floor_02.obj using Guid(2ec12a10dd1a99b498eec7fd09146b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc39fd2c921c11313d7cacdccfade427') in 0.027985 seconds 
+  Import took 0.030523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008019 seconds.
+  path: Assets/Prefabs/Survival Tools/Prefabs/flashlight.prefab
+  artifactKey: Guid(e3109ccf9db0f54408d5c02b496761c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Prefabs/flashlight.prefab using Guid(e3109ccf9db0f54408d5c02b496761c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd3172598a887023f76acbc764527b6') in 0.042806 seconds 
+  Import took 0.046351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065597 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/FP650_n.png
+  artifactKey: Guid(24f5e013caac7c54e9992e83cea50cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/FP650_n.png using Guid(24f5e013caac7c54e9992e83cea50cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '151839c9068bde8a89df88de2400f445') in 0.017455 seconds 
+  Import took 0.020271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008810 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Meshes/Textures/LightShape.tga
+  artifactKey: Guid(bc5593ebe2f17c443bc8310e847bb096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Meshes/Textures/LightShape.tga using Guid(bc5593ebe2f17c443bc8310e847bb096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd212a79847d2e214eefc3b5a6801b880') in 0.008686 seconds 
+  Import took 0.011603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007203 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/Components/Zoom.cs
+  artifactKey: Guid(780f90e951d635f439326ea715cd97e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/Components/Zoom.cs using Guid(780f90e951d635f439326ea715cd97e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0b5b94a8c9967822bb9b6791c76d6b') in 0.005690 seconds 
+  Import took 0.008093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007313 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+  artifactKey: Guid(4f19c7f94c794c5097d8bd11e39c750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs using Guid(4f19c7f94c794c5097d8bd11e39c750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7ad020783c7710c0de759b0f3d296c') in 0.006127 seconds 
+  Import took 0.008527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007711 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+  artifactKey: Guid(52ec835d14bd486f900952b77698b7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs using Guid(52ec835d14bd486f900952b77698b7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '358485533329e422fb2fa88478a6524a') in 0.005902 seconds 
+  Import took 0.008521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008674 seconds.
+  path: Assets/Textures/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b7c8c3e3c9a45adbdca63c88707d17') in 0.051772 seconds 
+  Import took 0.055322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008656 seconds.
+  path: Assets/Prefabs/Horror Assets/Models/HorrorDoll.fbx
+  artifactKey: Guid(56c8253302244df4ca65f2a7ca71b55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Models/HorrorDoll.fbx using Guid(56c8253302244df4ca65f2a7ca71b55f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b82808f5c86c2c8b2edb839faa3f81f') in 0.016988 seconds 
+  Import took 0.019784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007486 seconds.
+  path: Assets/Scripts/ControladorUI.cs
+  artifactKey: Guid(77e27484e0379b2419d3a657bd689997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ControladorUI.cs using Guid(77e27484e0379b2419d3a657bd689997) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '145670d9d203a564907d5228d6273b85') in 0.005874 seconds 
+  Import took 0.008369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006726 seconds.
+  path: Assets/Prefabs/Electrical Substation/Materials/M_Electrical_Substation.mat
+  artifactKey: Guid(576ab5f042c60614cb256c90cac75fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Materials/M_Electrical_Substation.mat using Guid(576ab5f042c60614cb256c90cac75fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8455003a330009e8abdd0d268e31471c') in 0.086430 seconds 
+  Import took 0.091448 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007301 seconds.
+  path: Assets/Prefabs/Horror Assets/Materials/WheelChair_Mat.mat
+  artifactKey: Guid(4422e77726f1c3d4994bd0f4db56701d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Materials/WheelChair_Mat.mat using Guid(4422e77726f1c3d4994bd0f4db56701d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b540ec2ee9a400aa6f9b82e1523f434') in 0.025554 seconds 
+  Import took 0.028164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054622 seconds.
+  path: Assets/Prefabs/Horror Assets/Textures/HorrorDoll_MetallicSmoothness.png
+  artifactKey: Guid(232dc946a5c347046b6569971aba9a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Textures/HorrorDoll_MetallicSmoothness.png using Guid(232dc946a5c347046b6569971aba9a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78991187756d463ccfe47c287fc5b5a6') in 0.017951 seconds 
+  Import took 0.020549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051988 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_N.tga
+  artifactKey: Guid(9f55a5c8d4742cc47954204866783093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_N.tga using Guid(9f55a5c8d4742cc47954204866783093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82e10709fb8ad2e95e89a774fd046fff') in 0.035143 seconds 
+  Import took 0.037782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008021 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime02.mat
+  artifactKey: Guid(dd4ae9458a7d1694c8fa66432938e049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime02.mat using Guid(dd4ae9458a7d1694c8fa66432938e049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b38bb096fa66df1d1a777cb656aafd71') in 0.047844 seconds 
+  Import took 0.050886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020828 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_N.tga
+  artifactKey: Guid(2c2941ed45c0e7f4486cb3adc97f188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_N.tga using Guid(2c2941ed45c0e7f4486cb3adc97f188e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be412151bb64456cf9b8ff6ecb5e7d2d') in 0.018207 seconds 
+  Import took 0.021117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016824 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/SD/SDNormal.png
+  artifactKey: Guid(b858c2119a90eea458fa78f3d981b122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/SD/SDNormal.png using Guid(b858c2119a90eea458fa78f3d981b122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8d7edfbab17d538794fa77d4c57ed1') in 0.012378 seconds 
+  Import took 0.015459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008001 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+  artifactKey: Guid(2787a46a4dc848c1b4b7b9307b614bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs using Guid(2787a46a4dc848c1b4b7b9307b614bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8175bbf981d02a231a6e4a444c9be27') in 0.006417 seconds 
+  Import took 0.009404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008263 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+  artifactKey: Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs using Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ccf098d32e46c438a557afb1f31e16f') in 0.006370 seconds 
+  Import took 0.009328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008155 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Landing/Landing 2.wav
+  artifactKey: Guid(ab9637a2491abbf4ca9c9601321cbb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Landing/Landing 2.wav using Guid(ab9637a2491abbf4ca9c9601321cbb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9de07f339ae259e3e4f86b968b7969') in 0.011762 seconds 
+  Import took 0.014775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008722 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile01.mat
+  artifactKey: Guid(c062415a802b2f846916a90dadc80f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile01.mat using Guid(c062415a802b2f846916a90dadc80f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e80c6d7e9004eacc6133ef4193532bd') in 0.031281 seconds 
+  Import took 0.034089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007914 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/mStretcher.mat
+  artifactKey: Guid(d7a59112f0ac6dd47a66ec5359d4100c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/mStretcher.mat using Guid(d7a59112f0ac6dd47a66ec5359d4100c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9bef8782ae1488b9f4424bf0f610d40') in 0.021350 seconds 
+  Import took 0.024352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008088 seconds.
+  path: Assets/Prefabs/Survival Tools/Materials/Flashlight.mat
+  artifactKey: Guid(290f7353214297746826373c98c213c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Materials/Flashlight.mat using Guid(290f7353214297746826373c98c213c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '761d39c56daca72a72a6af710638f12b') in 0.027371 seconds 
+  Import took 0.030458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049509 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_AlbedoTransparency.png
+  artifactKey: Guid(52697774d65c0bc47a7b457fbf2cd9de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_AlbedoTransparency.png using Guid(52697774d65c0bc47a7b457fbf2cd9de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '285e76bd082ecd05284403864cf182ef') in 0.039378 seconds 
+  Import took 0.043197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054265 seconds.
+  path: Assets/Prefabs/small_town_america/general/textures/street/general_street_pavement_n.tga
+  artifactKey: Guid(303f1da00a508264c87ba28e0f8cb6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/textures/street/general_street_pavement_n.tga using Guid(303f1da00a508264c87ba28e0f8cb6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43bf27669d69993bf4b13446931e52db') in 0.019672 seconds 
+  Import took 0.023969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008050 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Door/Materials/No Name.mat
+  artifactKey: Guid(48725b2738492f24e9ba709d0a28ae10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Door/Materials/No Name.mat using Guid(48725b2738492f24e9ba709d0a28ae10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff48d6d67d9fb9da486eb1d445e97da') in 0.105822 seconds 
+  Import took 0.108938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021930 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+  artifactKey: Guid(2d687537154440a3913a9a3c7977978c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs using Guid(2d687537154440a3913a9a3c7977978c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aac0d1026124c9d3ad62725d34e602f0') in 0.006000 seconds 
+  Import took 0.009512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.079580 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01.tga
+  artifactKey: Guid(6febee19ac762cf46aa78cebb2d48dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01.tga using Guid(6febee19ac762cf46aa78cebb2d48dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4efecb3bd967c92503bba31fae1fadf') in 0.041249 seconds 
+  Import took 0.044337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015979 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Meshes/StreetProps.FBX
+  artifactKey: Guid(29b8da6fbd3c2b542bf7bcda4beeab81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Meshes/StreetProps.FBX using Guid(29b8da6fbd3c2b542bf7bcda4beeab81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8964793f66d43899d035b16f656c5a3') in 0.459118 seconds 
+  Import took 0.462983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008732 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_Emission.png
+  artifactKey: Guid(377a50e1542bf8149ace7b960d17ae71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_Emission.png using Guid(377a50e1542bf8149ace7b960d17ae71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b462d985ddc09e8afd72ee0e9389e034') in 0.022450 seconds 
+  Import took 0.025316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017315 seconds.
+  path: Assets/Scripts/Colisiones.cs
+  artifactKey: Guid(35f2bf42081e30245ac64cf34437b8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Colisiones.cs using Guid(35f2bf42081e30245ac64cf34437b8fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55521ec125ae376a80ded12297fe049') in 0.007845 seconds 
+  Import took 0.010799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185684 seconds.
+  path: Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Normal.tga
+  artifactKey: Guid(f5376c828e9547c45a0ab7f9ec60a326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Normal.tga using Guid(f5376c828e9547c45a0ab7f9ec60a326) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91b3138a7e92359deb63a98168c19022') in 0.050678 seconds 
+  Import took 0.055490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063594 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_AO.tga
+  artifactKey: Guid(9ff408b0cb141da43ba77e4a49f64c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_AO.tga using Guid(9ff408b0cb141da43ba77e4a49f64c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33fb889b729430aebf538a448656b590') in 0.025742 seconds 
+  Import took 0.028323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031833 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_C.TGA
+  artifactKey: Guid(cae203f5c6ff2144a923288d09757339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_C.TGA using Guid(cae203f5c6ff2144a923288d09757339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3cdf90a9982a06f848d8aefdfb72e4') in 0.018102 seconds 
+  Import took 0.020937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065674 seconds.
+  path: Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Roughness.tga
+  artifactKey: Guid(e131046754d58f44aa6e2f6ac3d0dc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Roughness.tga using Guid(e131046754d58f44aa6e2f6ac3d0dc4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f28f9fda048316ad0aef3b36a31840d8') in 0.023124 seconds 
+  Import took 0.025902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010021 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_3_Normal.png
+  artifactKey: Guid(72fc72a4836f8b1438246e32a7f91e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_3_Normal.png using Guid(72fc72a4836f8b1438246e32a7f91e85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1585646355b110de11194296eff17084') in 0.011388 seconds 
+  Import took 0.014425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014647 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/SD/SDDiffuse.png
+  artifactKey: Guid(fe1e9257dd90991488e4a22f4d9afe6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/SD/SDDiffuse.png using Guid(fe1e9257dd90991488e4a22f4d9afe6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6458475a2a9015aee0b1b9f3f8111729') in 0.012177 seconds 
+  Import took 0.015067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.677107 seconds.
+  path: Assets/Prefabs/Horror Assets/Textures/WheelChair_Color.png
+  artifactKey: Guid(45fd572876f68ea48a50605f320d063f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Textures/WheelChair_Color.png using Guid(45fd572876f68ea48a50605f320d063f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e5bb3db6b1263d4cef0a060e4b970b4') in 0.021035 seconds 
+  Import took 0.025248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040602 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Door/Door_d.png
+  artifactKey: Guid(3440f4bbf9bd3984fa1372d6dd6a208a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Door/Door_d.png using Guid(3440f4bbf9bd3984fa1372d6dd6a208a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77902bedcf6da90718d2f6248fb6ab2b') in 0.018386 seconds 
+  Import took 0.022275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014898 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Jump/Jump 1.wav
+  artifactKey: Guid(3888a1e1c52793144a6d07b8c508772e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Jump/Jump 1.wav using Guid(3888a1e1c52793144a6d07b8c508772e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ad6f98fd60c2e03eff90fd871ca29d') in 0.013035 seconds 
+  Import took 0.015561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107709 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_M.tga
+  artifactKey: Guid(b0d09a717c8c74d429116d820bcf49f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_M.tga using Guid(b0d09a717c8c74d429116d820bcf49f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51698f6c7c9715b34f8c761bdab1a46c') in 0.043082 seconds 
+  Import took 0.045869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007283 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+  artifactKey: Guid(8ef7be1c625941f7ba8ed7cc71718c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs using Guid(8ef7be1c625941f7ba8ed7cc71718c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891eec98dd8f8ae917e31901df4d38a4') in 0.005850 seconds 
+  Import took 0.008272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018287 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/Models/Materials/storage-1.mat
+  artifactKey: Guid(84fc48b8afd62ee499d2e2edf0b75d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/Models/Materials/storage-1.mat using Guid(84fc48b8afd62ee499d2e2edf0b75d04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6a4a58c23fcb62d877d0adcfee5f02') in 0.018489 seconds 
+  Import took 0.021628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007274 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Meshes/Materials/Atlas.mat
+  artifactKey: Guid(38e0f6c0765a5374f9a428840748d450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Meshes/Materials/Atlas.mat using Guid(38e0f6c0765a5374f9a428840748d450) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '486e85c13b59ef6d2ed5cfbf6332ec81') in 0.039174 seconds 
+  Import took 0.043327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021248 seconds.
+  path: Assets/Prefabs/small_town_america/general/models/street/general_street_straight_w_sidewalk_long.fbx
+  artifactKey: Guid(0656a7e5759ccaf40a463b72bbf3a345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/models/street/general_street_straight_w_sidewalk_long.fbx using Guid(0656a7e5759ccaf40a463b72bbf3a345) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a9c4b08dcab3f64abb96e551935a70') in 0.076768 seconds 
+  Import took 0.080481 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009445 seconds.
+  path: Assets/Scripts/MovmientoFisicas.cs
+  artifactKey: Guid(1c9f8dada2e5342419e9ec2c05c8ea83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovmientoFisicas.cs using Guid(1c9f8dada2e5342419e9ec2c05c8ea83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d95a2111f453de8f09ce115d610441e') in 0.006968 seconds 
+  Import took 0.010170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055586 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_Normal.png
+  artifactKey: Guid(ca9aec0df4aba6b42aaa2a48fc2b8684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_Normal.png using Guid(ca9aec0df4aba6b42aaa2a48fc2b8684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62004e3dcfd9c7cb949d4343553ca5b7') in 0.040217 seconds 
+  Import took 0.043840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019262 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/Models/storage_building.FBX
+  artifactKey: Guid(752540f04d42c864c82cf92823ad6fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/Models/storage_building.FBX using Guid(752540f04d42c864c82cf92823ad6fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0137d89b88cf7268b63f038516609b3f') in 0.044026 seconds 
+  Import took 0.047061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007458 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Landing/Landing 1.wav
+  artifactKey: Guid(9fcb6dc763cd0354da305b5de2091287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Landing/Landing 1.wav using Guid(9fcb6dc763cd0354da305b5de2091287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8662e15641365758ed9a6a0db5ff42') in 0.013594 seconds 
+  Import took 0.016077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008727 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/Materials/FP650_Diffuse.mat
+  artifactKey: Guid(64d49c5f552f15f4291d6a23d0f81086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/Materials/FP650_Diffuse.mat using Guid(64d49c5f552f15f4291d6a23d0f81086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ef00f0525b334da679e61a2bbcaa7ab') in 0.016461 seconds 
+  Import took 0.019109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118315 seconds.
+  path: Assets/Prefabs/Houses_Pack/Materials/House_3.mat
+  artifactKey: Guid(c6458bb073911f9459c5a7597de907bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Materials/House_3.mat using Guid(c6458bb073911f9459c5a7597de907bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ed2dd4deec186b2cf6ca6132148ec57') in 0.042361 seconds 
+  Import took 0.046117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008583 seconds.
+  path: Assets/Prefabs/small_town_america/general/models/street/general_street_3_way_w_sidewalk.fbx
+  artifactKey: Guid(9b46016993158d545b5021d3928c0969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/models/street/general_street_3_way_w_sidewalk.fbx using Guid(9b46016993158d545b5021d3928c0969) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b67928508746c23023774d130610ba7') in 0.038205 seconds 
+  Import took 0.041685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008754 seconds.
+  path: Assets/Prefabs/SweetHome/Hospital SH/Hospital_room_72_302.jpeg
+  artifactKey: Guid(d81daccbc1d8e0f489b774cb57611b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Hospital SH/Hospital_room_72_302.jpeg using Guid(d81daccbc1d8e0f489b774cb57611b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729ab8160a0389691282e6f073e50d02') in 0.011759 seconds 
+  Import took 0.014396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007709 seconds.
+  path: Assets/Prefabs/Horror Assets/Models/Materials/No Name.mat
+  artifactKey: Guid(cfd5d10d08386c6469a1b51131365fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Models/Materials/No Name.mat using Guid(cfd5d10d08386c6469a1b51131365fdd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1aded340ef496270718e8f701b212f') in 0.012369 seconds 
+  Import took 0.015357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020573 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+  artifactKey: Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs using Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac114898bc81a022a8c089a3f17687ef') in 0.006062 seconds 
+  Import took 0.008897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020146 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Door/Door_n.png
+  artifactKey: Guid(6fd3bd7fcaa8eb64ebbffedeb96ada92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Door/Door_n.png using Guid(6fd3bd7fcaa8eb64ebbffedeb96ada92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4b125d6a8d0f25eec350e306017d1d') in 0.019380 seconds 
+  Import took 0.022079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007038 seconds.
+  path: Assets/Prefabs/Horror Assets/Materials/HorrorDoll_Mat.mat
+  artifactKey: Guid(dd528a56c1931b04896abd9515b34574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Materials/HorrorDoll_Mat.mat using Guid(dd528a56c1931b04896abd9515b34574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da090804009a390b30549f21c9d4b897') in 0.025445 seconds 
+  Import took 0.028588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.098896 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_N.TGA
+  artifactKey: Guid(598acd9ebe884f440a97da6f8426483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_N.TGA using Guid(598acd9ebe884f440a97da6f8426483e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe020d286fcf0faecb550fb9f0b716a1') in 0.020615 seconds 
+  Import took 0.023536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009520 seconds.
+  path: Assets/Prefabs/SweetHome/Bodega SH/Bodega Gris.obj
+  artifactKey: Guid(c30bac5650f98484f85943ab267d2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Bodega SH/Bodega Gris.obj using Guid(c30bac5650f98484f85943ab267d2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c665edbb37243b3eeebf44551dc4e89') in 1.086254 seconds 
+  Import took 1.090054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066008 seconds.
+  path: Assets/Prefabs/small_town_america/general/textures/street/general_street_pavement_m.tga
+  artifactKey: Guid(d1cceed0566a0df46a54e770a974814e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/textures/street/general_street_pavement_m.tga using Guid(d1cceed0566a0df46a54e770a974814e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd1bb2834998cfde5dedcf5536e10161') in 0.019543 seconds 
+  Import took 0.022319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007754 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01s.mat
+  artifactKey: Guid(80cb81cea798afb43987837e11469c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01s.mat using Guid(80cb81cea798afb43987837e11469c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1599857a9e54b9727a2472b741be55d6') in 0.046225 seconds 
+  Import took 0.049586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007582 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Lamp/Materials/LampDiffuse.mat
+  artifactKey: Guid(b5e123f34d907954f8791c157714087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Lamp/Materials/LampDiffuse.mat using Guid(b5e123f34d907954f8791c157714087d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78df14dec384a2e38a2ca7198b020b43') in 0.012843 seconds 
+  Import took 0.015685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007066 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/FirstPersonLook.cs
+  artifactKey: Guid(ec72980442fddac4d86e75ab24b4d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/FirstPersonLook.cs using Guid(ec72980442fddac4d86e75ab24b4d027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3823ec789658cf4b4d5b37bf42b9cf2') in 0.005682 seconds 
+  Import took 0.008078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051939 seconds.
+  path: Assets/Prefabs/Horror Assets/Textures/HorrorDoll_Normal.png
+  artifactKey: Guid(07f29e16a302b494a8b88e28ba52c56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Textures/HorrorDoll_Normal.png using Guid(07f29e16a302b494a8b88e28ba52c56b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d15e7dca68e6645a329287b4e55f90') in 0.020947 seconds 
+  Import took 0.024661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007156 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/M_BedBedding.mat
+  artifactKey: Guid(96ad2410114456e40aa2cc44f2fe16c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/M_BedBedding.mat using Guid(96ad2410114456e40aa2cc44f2fe16c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0210eac5476c10dce9dde88d88c0937') in 0.068557 seconds 
+  Import took 0.071859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064456 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_MR.tga
+  artifactKey: Guid(ace021d20dc4fee42905fc84d876b02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_MR.tga using Guid(ace021d20dc4fee42905fc84d876b02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '399ee02a6f3286dfb10bd59eb81dcd6e') in 0.031320 seconds 
+  Import took 0.034028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052738 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_MetallicSmoothness.png
+  artifactKey: Guid(7017d0fbe52a4a8419d44338e8f82a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_2_MetallicSmoothness.png using Guid(7017d0fbe52a4a8419d44338e8f82a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bedeabdbefc34b4dec17d1dbf628e6e4') in 0.040762 seconds 
+  Import took 0.044475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008278 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+  artifactKey: Guid(a4b6f99e8bc54541bbd149b014ff441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs using Guid(a4b6f99e8bc54541bbd149b014ff441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9ccbea76b79ce7788f5629b833b5e02') in 0.005911 seconds 
+  Import took 0.008779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006896 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+  artifactKey: Guid(f7cfa58e417a46ea8889989684c2522e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs using Guid(f7cfa58e417a46ea8889989684c2522e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b778a43bbc47a0a3cb493302415cb8') in 0.005721 seconds 
+  Import took 0.008607 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006920 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/Components/Jump.cs
+  artifactKey: Guid(8f977f53412d81140ab13b3fca57cca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/Components/Jump.cs using Guid(8f977f53412d81140ab13b3fca57cca2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7985e50a60fe4f013b21843d668630e') in 0.006011 seconds 
+  Import took 0.008432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007435 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+  artifactKey: Guid(21256c5b62f346f18640dad779911e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs using Guid(21256c5b62f346f18640dad779911e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e87f211b137b81392bf848a38940ac39') in 0.006231 seconds 
+  Import took 0.008943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008211 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_BedBedding_01.obj
+  artifactKey: Guid(92a399879ec49094b8bd5109dd1d830e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_BedBedding_01.obj using Guid(92a399879ec49094b8bd5109dd1d830e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab856e46249ee3946c06e40f4001b3a2') in 0.022077 seconds 
+  Import took 0.024601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007725 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+  artifactKey: Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs using Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4239304ce72a3c02989594e6850cfec8') in 0.005672 seconds 
+  Import took 0.008077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006138 seconds.
+  path: Assets/Textures/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d77be6b6663f6b77182ca4a4ad603b') in 0.008037 seconds 
+  Import took 0.010820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084569 seconds.
+  path: Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Metallic.tga
+  artifactKey: Guid(72a96e2d157c7e34ca0a8d51d4b1d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Metallic.tga using Guid(72a96e2d157c7e34ca0a8d51d4b1d93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59838812a139a123631b7c78dca84142') in 0.026227 seconds 
+  Import took 0.029028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006365 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Door/mDoor.mat
+  artifactKey: Guid(1ef0cd5a64c3aee4a978d9343572596c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Door/mDoor.mat using Guid(1ef0cd5a64c3aee4a978d9343572596c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7376df47975cf3fb2ab5ff5ab3ac95') in 0.015809 seconds 
+  Import took 0.018765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006884 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+  artifactKey: Guid(53d91f98a2664f5cb9af11de72ac54ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs using Guid(53d91f98a2664f5cb9af11de72ac54ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6fe5e0ee12ed799d29c8d35ac2f2fc') in 0.005826 seconds 
+  Import took 0.008418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018950 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Jump/Jump 3.wav
+  artifactKey: Guid(b16dc74b7376aca46bd0c6be96c940fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Jump/Jump 3.wav using Guid(b16dc74b7376aca46bd0c6be96c940fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7708b6937345921e47aa61b7685a2f73') in 0.011811 seconds 
+  Import took 0.014331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007313 seconds.
+  path: Assets/Scripts/ColisionesTAG.cs
+  artifactKey: Guid(d31a55aba3cdfd846812f8439f1ab349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ColisionesTAG.cs using Guid(d31a55aba3cdfd846812f8439f1ab349) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87862b101e4379d70f57db6ffd3ea6a0') in 0.005644 seconds 
+  Import took 0.008035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007679 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/WallDoorway/WallDoorway.FBX
+  artifactKey: Guid(ca4ab8c150aaba443a8b59259dc91b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/WallDoorway/WallDoorway.FBX using Guid(ca4ab8c150aaba443a8b59259dc91b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1837efac57f00532c3e60228ef73c59e') in 0.016756 seconds 
+  Import took 0.019777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006394 seconds.
+  path: Assets/Textures/ground.terrainlayer
+  artifactKey: Guid(1860be4d896f7394ab0cc226b64b6296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/ground.terrainlayer using Guid(1860be4d896f7394ab0cc226b64b6296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c6070cdfdabac3c4d1a5398484f668') in 0.011675 seconds 
+  Import took 0.014451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008662 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_3_AlbedoTransparency.png
+  artifactKey: Guid(c8c62f33a23422a4ba91dda3ea59a097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_3_AlbedoTransparency.png using Guid(c8c62f33a23422a4ba91dda3ea59a097) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '587f22aeb6af43b445c46275076ba69b') in 0.011439 seconds 
+  Import took 0.014601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067185 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01.tga
+  artifactKey: Guid(71fcdacc93daf0e46bca8ddba2ef798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01.tga using Guid(71fcdacc93daf0e46bca8ddba2ef798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d1a7214ebdee2d0c77128b018155b3') in 0.022465 seconds 
+  Import took 0.025951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008014 seconds.
+  path: Assets/Prefabs/SweetHome/Bodega SH/Bodega_Gris_wall_1_2.jpeg
+  artifactKey: Guid(d05c3d0fae40984439754603dac638f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Bodega SH/Bodega_Gris_wall_1_2.jpeg using Guid(d05c3d0fae40984439754603dac638f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5404ae9dc1b88fa465ee69c06539febe') in 0.011535 seconds 
+  Import took 0.014887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019881 seconds.
+  path: Assets/Images/Fondo.jpg
+  artifactKey: Guid(c6b805ea905a784459c7fd15c010ca72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Fondo.jpg using Guid(c6b805ea905a784459c7fd15c010ca72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048f8029c9726367e8f574b9f348fcae') in 0.104554 seconds 
+  Import took 0.107405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.224279 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/FP650.FBX
+  artifactKey: Guid(486f62fac68241f41b0ee233cb2d3c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Stretcher/FP650.FBX using Guid(486f62fac68241f41b0ee233cb2d3c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3b4999eb87b79aabbfa504a5addabe') in 0.020152 seconds 
+  Import took 0.022870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049162 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_C.tga
+  artifactKey: Guid(f1de0460afd04b642a261aef2e069024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile01_C.tga using Guid(f1de0460afd04b642a261aef2e069024) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8aa230f379ccd36d7a05d0e85917c11') in 0.013364 seconds 
+  Import took 0.016024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020550 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Meshes/LightShape.FBX
+  artifactKey: Guid(d5ff1f5c1c85a3b4b97e383bb087d486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Meshes/LightShape.FBX using Guid(d5ff1f5c1c85a3b4b97e383bb087d486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0d8f098260a33f4c6731268264e50f1') in 0.017423 seconds 
+  Import took 0.020340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007182 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+  artifactKey: Guid(103e0a6a1d404693b9fb1a5173e0e979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs using Guid(103e0a6a1d404693b9fb1a5173e0e979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df0985b120e96324eb33b511ed9d04a') in 0.006041 seconds 
+  Import took 0.008702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017566 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G_N.png
+  artifactKey: Guid(96068c214ec55854a9b721fffd6570a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G_N.png using Guid(96068c214ec55854a9b721fffd6570a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3730936cd31f09d4a808fdcea8de96b5') in 0.011888 seconds 
+  Import took 0.014460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007568 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch start 2.wav
+  artifactKey: Guid(8a49e3e94b1e34e47bc5f47c5233c5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch start 2.wav using Guid(8a49e3e94b1e34e47bc5f47c5233c5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c15a83add06c9b057863891639e3076') in 0.010895 seconds 
+  Import took 0.013427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006632 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+  artifactKey: Guid(790744c462254b7ba8038e6ed28b3db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs using Guid(790744c462254b7ba8038e6ed28b3db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54bfbe9384a4675d15e24f63a62284ee') in 0.005461 seconds 
+  Import took 0.007835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049881 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_N.tga
+  artifactKey: Guid(d1208c33c57b6694aa1982e7193cba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_N.tga using Guid(d1208c33c57b6694aa1982e7193cba8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05100e77b4e2c4533b794a175c2f8214') in 0.018357 seconds 
+  Import took 0.022129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066035 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_S.tga
+  artifactKey: Guid(78afc70bb0dd78744be4bc4a5446876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_S.tga using Guid(78afc70bb0dd78744be4bc4a5446876e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58e318fe36dc857828a4731e4d0bd69') in 0.014836 seconds 
+  Import took 0.018939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006171 seconds.
+  path: Assets/Prefabs/small_town_america/general/materials/sidewalk_markings.mat
+  artifactKey: Guid(c1ee70dfa8eaa764cac686b842614f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/materials/sidewalk_markings.mat using Guid(c1ee70dfa8eaa764cac686b842614f4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2169948181959ddb2e9730af7d6611df') in 0.022638 seconds 
+  Import took 0.025464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006916 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+  artifactKey: Guid(24b0dc2d1d494adbbec1f4db26b4cf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs using Guid(24b0dc2d1d494adbbec1f4db26b4cf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d513f31204dd78c3cc37ca1f6418641') in 0.005738 seconds 
+  Import took 0.008596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011318 seconds.
+  path: Assets/Prefabs/Houses_Pack/Models/House_1.FBX
+  artifactKey: Guid(28d592096e7e76148945c98658a6c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Models/House_1.FBX using Guid(28d592096e7e76148945c98658a6c011) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892efbdf0641f35cde8c7098f738cdef') in 0.072475 seconds 
+  Import took 0.076148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007755 seconds.
+  path: Assets/Prefabs/Electrical Substation/Meshes/SM_Electrical_Substation.fbx
+  artifactKey: Guid(6e5aef55d2b1f1f4a8b93960d7961598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Meshes/SM_Electrical_Substation.fbx using Guid(6e5aef55d2b1f1f4a8b93960d7961598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3edc69e45e409de1263397415fb21b5') in 0.085064 seconds 
+  Import took 0.090907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010723 seconds.
+  path: Assets/Prefabs/Houses_Pack/Models/House_2.FBX
+  artifactKey: Guid(63378c9e93891ba43b71973b16224476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Models/House_2.FBX using Guid(63378c9e93891ba43b71973b16224476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cce28cb8771fb4fd14b8b673aeb2659f') in 0.065921 seconds 
+  Import took 0.069766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049744 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_C.tga
+  artifactKey: Guid(ef4dc55c98f1e38479f254791f71a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime02_C.tga using Guid(ef4dc55c98f1e38479f254791f71a51b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c698e6dcebcde2f53e4718cfb7483f3f') in 0.019532 seconds 
+  Import took 0.022535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066436 seconds.
+  path: Assets/Prefabs/Horror Assets/Textures/HorrorDoll_Color.png
+  artifactKey: Guid(d1a3685521e13954593567bae0c6e9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Textures/HorrorDoll_Color.png using Guid(d1a3685521e13954593567bae0c6e9ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e8b8f015bb5668a773f7913d61abef7') in 0.013174 seconds 
+  Import took 0.016131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034841 seconds.
+  path: Assets/Prefabs/SweetHome/Hospital SH/Hospital_wall_1_3.png
+  artifactKey: Guid(e15d7c1703e2ce6449d70ee5f5f783c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Hospital SH/Hospital_wall_1_3.png using Guid(e15d7c1703e2ce6449d70ee5f5f783c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a2601f5e7e3df97713fce38aa11430') in 0.012046 seconds 
+  Import took 0.014660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021813 seconds.
+  path: Assets/Scripts/MovmientoBasico.cs
+  artifactKey: Guid(1c396f9ded373ee4a9351746236ed111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MovmientoBasico.cs using Guid(1c396f9ded373ee4a9351746236ed111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c2fe1b5de5a7eac077cb949fd557d07') in 0.007138 seconds 
+  Import took 0.010260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006804 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+  artifactKey: Guid(2ed57967c52645d390a89dcf8f61ba73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs using Guid(2ed57967c52645d390a89dcf8f61ba73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a67cad8f9dbbe0b0c42c56d22a2aebd') in 0.006879 seconds 
+  Import took 0.009411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008533 seconds.
+  path: Assets/Images/hand.png
+  artifactKey: Guid(b1038043c4ad3104bac032e3766107d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/hand.png using Guid(b1038043c4ad3104bac032e3766107d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b83989aea3192f7b23ced55921f073') in 0.018005 seconds 
+  Import took 0.020901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021182 seconds.
+  path: Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_AlbedoTransparency.png
+  artifactKey: Guid(28a399bd217c46246b403726c54301c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_AlbedoTransparency.png using Guid(28a399bd217c46246b403726c54301c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '191f534e81e2c586664b6e47785f3ec9') in 0.014816 seconds 
+  Import took 0.017819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008440 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime01_C.mat
+  artifactKey: Guid(8a7f3e3f34602944ca9b0a89e0f7be30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Walllime01_C.mat using Guid(8a7f3e3f34602944ca9b0a89e0f7be30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e156f123408fc1c3c00455d84a713e') in 0.018583 seconds 
+  Import took 0.021360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041473 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_AlbedoTransparency.png
+  artifactKey: Guid(f08b53d425d28cf4e91c0ac2b95b059a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_1_AlbedoTransparency.png using Guid(f08b53d425d28cf4e91c0ac2b95b059a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b15c1dfd089dad0860287d6b20a203f1') in 0.524209 seconds 
+  Import took 0.528373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011101 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+  artifactKey: Guid(a4d4c76e63944cba8c7d00f56334b98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs using Guid(a4d4c76e63944cba8c7d00f56334b98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23e308e483eaa607a39cbc50c73ded1') in 0.006624 seconds 
+  Import took 0.009160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007353 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/RoadBlocks/RoadBlock_C.prefab
+  artifactKey: Guid(c51050087ea26c14e952d5c3001ec5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/RoadBlocks/RoadBlock_C.prefab using Guid(c51050087ea26c14e952d5c3001ec5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1f11b6ba90b50fdd1d4ccf06c8f8333') in 0.038414 seconds 
+  Import took 0.041872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007542 seconds.
+  path: Assets/Prefabs/Survival Tools/Materials/FlashlightGlass.mat
+  artifactKey: Guid(ea6ba5f33fa3acd4b81c2bf9c2dd9ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Materials/FlashlightGlass.mat using Guid(ea6ba5f33fa3acd4b81c2bf9c2dd9ec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90cf9aa8aaafc4e67b8c939dd1d58126') in 0.023999 seconds 
+  Import took 0.027189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007748 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01.mat
+  artifactKey: Guid(ae4076d094d20da4da7dc8fa3ae36015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Bed_Metal_01.mat using Guid(ae4076d094d20da4da7dc8fa3ae36015) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd6e78a2dcb8b017c9cd2bad1ba500fc') in 0.026251 seconds 
+  Import took 0.029825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050109 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_N.tga
+  artifactKey: Guid(1187c62cb03f7a243bd9b242817bc2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_N.tga using Guid(1187c62cb03f7a243bd9b242817bc2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f439a409ccd15f2badbb8eeea90e7dd6') in 0.032024 seconds 
+  Import took 0.034728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008099 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+  artifactKey: Guid(dc20866c0d5e413ab7559440e15333ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs using Guid(dc20866c0d5e413ab7559440e15333ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad64083c538b2a6b9ad36c3a41743d43') in 0.006333 seconds 
+  Import took 0.009355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020295 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_R.TGA
+  artifactKey: Guid(dbe39981618f6f141b9a6aa20aa1ed9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_R.TGA using Guid(dbe39981618f6f141b9a6aa20aa1ed9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2462f97cd57678f3840308a91253c9a2') in 0.015742 seconds 
+  Import took 0.018489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007748 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/Models/Materials/girders-1.mat
+  artifactKey: Guid(e40c6a2076e30304697b8dd789df11ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/Models/Materials/girders-1.mat using Guid(e40c6a2076e30304697b8dd789df11ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0586ae1ae6e1af7d60cdb7ec82d2fb05') in 0.014823 seconds 
+  Import took 0.017483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008793 seconds.
+  path: Assets/Textures/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da321eb65fb4c39702a55ea267d0ad49') in 0.012994 seconds 
+  Import took 0.015590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032029 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_R.TGA
+  artifactKey: Guid(b8bb4830a55b4464fbf9f91f387148e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Walllime01_R.TGA using Guid(b8bb4830a55b4464fbf9f91f387148e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c68b6c89c7c71f3051ee4ed39f99d6d') in 0.016411 seconds 
+  Import took 0.019165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008125 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Ceiling_01.obj
+  artifactKey: Guid(fb6d3eae3b4e46e46a8b71b5faa7e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Ceiling_01.obj using Guid(fb6d3eae3b4e46e46a8b71b5faa7e6a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f336c9d2022597960d028dad2535e627') in 0.020230 seconds 
+  Import took 0.022922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015390 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch end 3.wav
+  artifactKey: Guid(9d46f9a0e3e8be44aa2dc581bd6e0c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch end 3.wav using Guid(9d46f9a0e3e8be44aa2dc581bd6e0c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73af0a8ede2d6650113f3a016cf374d3') in 0.012002 seconds 
+  Import took 0.014722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008781 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+  artifactKey: Guid(9eff140b25d64601aabc6ba32245d099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs using Guid(9eff140b25d64601aabc6ba32245d099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfab72b8eb4933ecc49ca0b7bc8d3af6') in 0.006991 seconds 
+  Import took 0.009716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.062231 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_N.tga
+  artifactKey: Guid(270dba9cddd76504188a0bc9a4718876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_N.tga using Guid(270dba9cddd76504188a0bc9a4718876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0333f4e7e19e3fd4697455c8a09405c') in 0.033919 seconds 
+  Import took 0.036818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009521 seconds.
+  path: Assets/Images/eye.png
+  artifactKey: Guid(bbe2fa1be9c41934695f89d714f2e634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/eye.png using Guid(bbe2fa1be9c41934695f89d714f2e634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffdb1545d9c13d63709f5ac12416af78') in 0.020320 seconds 
+  Import took 0.023886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007273 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Glass.mat
+  artifactKey: Guid(6564bdf8cbd80074080bb66fd229384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Glass.mat using Guid(6564bdf8cbd80074080bb66fd229384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42fad16dee73781456bd02c3829823e') in 0.013038 seconds 
+  Import took 0.015949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010022 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Lamp/LampDiffuse.png
+  artifactKey: Guid(fdf5c2c8889832c40bbda772a312a0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Lamp/LampDiffuse.png using Guid(fdf5c2c8889832c40bbda772a312a0f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a564b29505e063904b9247bfbfb6c4d2') in 0.011209 seconds 
+  Import took 0.013946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006984 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile02.mat
+  artifactKey: Guid(6eedf1229b2548749afd34673f053a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Tile02.mat using Guid(6eedf1229b2548749afd34673f053a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d307f607f92291ac8ffda28f93da07a') in 0.020573 seconds 
+  Import took 0.023231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007293 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Ambulance_2.mat
+  artifactKey: Guid(692ce0735c228134fb045ce40ab1c25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Ambulance_2.mat using Guid(692ce0735c228134fb045ce40ab1c25e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd70da82f587ba8ab085ff366786d7a72') in 0.103244 seconds 
+  Import took 0.109339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007595 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+  artifactKey: Guid(f970ea55f9f84bf79b05dab180b8c125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs using Guid(f970ea55f9f84bf79b05dab180b8c125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6357567bb478590f4bd98250ccc60793') in 0.006208 seconds 
+  Import took 0.009085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006601 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01.mat
+  artifactKey: Guid(a79fd100eebc3e946a5d6df1a792fe30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Door_01.mat using Guid(a79fd100eebc3e946a5d6df1a792fe30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd441026806ce8a712db29e68d49f4c9a') in 0.037262 seconds 
+  Import took 0.139423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008778 seconds.
+  path: Assets/Prefabs/Muro/Muro Antiguo.obj
+  artifactKey: Guid(161c43bb2f4a2b74f932a285aa8bb507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Muro/Muro Antiguo.obj using Guid(161c43bb2f4a2b74f932a285aa8bb507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe3feffa4587075b384cec4780c7190') in 0.087046 seconds 
+  Import took 0.090269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009195 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+  artifactKey: Guid(ac1eb05af6d391b4eb0f4c070a99f1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs using Guid(ac1eb05af6d391b4eb0f4c070a99f1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8b79a7f6e3a3e77c6f94ba51dc9142') in 0.008333 seconds 
+  Import took 0.011595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078805 seconds.
+  path: Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Occlusion.tga
+  artifactKey: Guid(f7150996a68a2b842916c0a0ded687eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Electrical Substation/Textures/T_Electrical_Substation_Occlusion.tga using Guid(f7150996a68a2b842916c0a0ded687eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b33524bd170adb181bb0ce4fe0e93637') in 0.031248 seconds 
+  Import took 0.034034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007745 seconds.
+  path: Assets/Materials/Color Negro.mat
+  artifactKey: Guid(045720aa7475eaf4ea0a70cfd9f3ff7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Color Negro.mat using Guid(045720aa7475eaf4ea0a70cfd9f3ff7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4612d1b612e67c442a22030fc697e1e7') in 0.012204 seconds 
+  Import took 0.014848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015861 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch start 1.wav
+  artifactKey: Guid(9b910aa79c186384cb17f28fad642b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch start 1.wav using Guid(9b910aa79c186384cb17f28fad642b0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c91c2ddadf91d82969f53efeb2f64b94') in 0.012861 seconds 
+  Import took 0.015606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008020 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/RoadBlocks/RoadBlock_D.prefab
+  artifactKey: Guid(914351682f086b145ae6774edb5da09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/RoadBlocks/RoadBlock_D.prefab using Guid(914351682f086b145ae6774edb5da09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec9c7754f4a25ba3ca27a93b05cd311') in 0.037573 seconds 
+  Import took 0.041197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007261 seconds.
+  path: Assets/Textures/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73c4f4f2da4d2ab57d901e0f40ae3f2f') in 0.029406 seconds 
+  Import took 0.032226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020107 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Med_box_01.mat
+  artifactKey: Guid(5185afe064a3d8541a43d014b7ed46ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/Materials/Mat_Med_box_01.mat using Guid(5185afe064a3d8541a43d014b7ed46ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fce4f70fbdcfe31a0eecaa933f35224') in 0.041190 seconds 
+  Import took 0.044022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007805 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/SD/Materials/SDDiffuse.mat
+  artifactKey: Guid(cffd480aae2f3484f92fd7216be81bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/SD/Materials/SDDiffuse.mat using Guid(cffd480aae2f3484f92fd7216be81bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65f2c4718930f626714fc3c551d1c5a2') in 0.009283 seconds 
+  Import took 0.011935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.204557 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Meshes/Textures/atlas.tga
+  artifactKey: Guid(a56b08bcd0efc1142ac4b8a9ae1284e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Meshes/Textures/atlas.tga using Guid(a56b08bcd0efc1142ac4b8a9ae1284e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dc547a1f3ace123d8af4e16cfb89349') in 0.033926 seconds 
+  Import took 0.038201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008943 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+  artifactKey: Guid(83680ab1a69f4102ac67d1459fe76e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs using Guid(83680ab1a69f4102ac67d1459fe76e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea11addb60bded7e59c6aba1921993f4') in 0.006735 seconds 
+  Import took 0.009564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007379 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Door/Door.FBX
+  artifactKey: Guid(4cee08c7276bf274d91d84489cdf46de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Door/Door.FBX using Guid(4cee08c7276bf274d91d84489cdf46de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05dff11e8ba6fee7515c18032fe20ce4') in 0.016947 seconds 
+  Import took 0.019616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007549 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_H.prefab
+  artifactKey: Guid(2a4ab39d4d990d041887ced152a6f57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_H.prefab using Guid(2a4ab39d4d990d041887ced152a6f57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31019aafb4c5ba44b07ebbd6dcec8919') in 0.039489 seconds 
+  Import took 0.043349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021616 seconds.
+  path: Assets/Prefabs/SweetHome/Hospital SH/Hospital.obj
+  artifactKey: Guid(9d4f2ec6b52782e4d847b9ac211e14b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SweetHome/Hospital SH/Hospital.obj using Guid(9d4f2ec6b52782e4d847b9ac211e14b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f62ac4be698302a286808d8256c191f') in 2.147067 seconds 
+  Import took 2.152841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050095 seconds.
+  path: Assets/Prefabs/small_town_america/general/textures/street/general_sidewalk_markings_a.tga
+  artifactKey: Guid(5ed2c3b32ebb96245be448985319a22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/textures/street/general_sidewalk_markings_a.tga using Guid(5ed2c3b32ebb96245be448985319a22d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5187e124ed6c36c7f8f734ded1463148') in 0.015957 seconds 
+  Import took 0.019250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037531 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_J.prefab
+  artifactKey: Guid(52685ed25fdcb1b488b7047664232501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/TraficLights/LampPost_J.prefab using Guid(52685ed25fdcb1b488b7047664232501) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0926128502c101a12405d49392a15143') in 0.038825 seconds 
+  Import took 0.042981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007527 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+  artifactKey: Guid(d736ce056cf444ca96e424f4d9c42b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs using Guid(d736ce056cf444ca96e424f4d9c42b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '561756fe2efd88016ea2308938b34ba1') in 0.006027 seconds 
+  Import took 0.008745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006555 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Ambulance_3.mat
+  artifactKey: Guid(4e9ca33790832b24aaf6f8d6172bb22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Materials/Ambulance_3.mat using Guid(4e9ca33790832b24aaf6f8d6172bb22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53e370c18b7957bd630b9080d72866d') in 0.016827 seconds 
+  Import took 0.020189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008528 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/storage_building-2.prefab
+  artifactKey: Guid(5bce9b4ac9ed5c9478f4cb1a4154b263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/storage_building-2.prefab using Guid(5bce9b4ac9ed5c9478f4cb1a4154b263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2c7aa8b0d38d21a920b0fb509ad5ab3') in 0.015689 seconds 
+  Import took 0.018608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052250 seconds.
+  path: Assets/Prefabs/small_town_america/general/textures/street/general_sidewalk_markings_n.tga
+  artifactKey: Guid(9e6d5ce5e94859a4681b29191e42fab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/small_town_america/general/textures/street/general_sidewalk_markings_n.tga using Guid(9e6d5ce5e94859a4681b29191e42fab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7b13f067e0ebdc0c951bdbb5e8d9441') in 0.015480 seconds 
+  Import took 0.018159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008863 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Lamp/LampEmission.png
+  artifactKey: Guid(1be7b7735ea3a9e469d740265b1aedc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Lamp/LampEmission.png using Guid(1be7b7735ea3a9e469d740265b1aedc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7518167eef5d6e8ca23a2bc81b3b1d') in 0.013187 seconds 
+  Import took 0.015901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007360 seconds.
+  path: Assets/Scripts/Triggers_Respawn.cs
+  artifactKey: Guid(e25f2af1d69cb8546af32050b7a398c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Triggers_Respawn.cs using Guid(e25f2af1d69cb8546af32050b7a398c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '147c4396734d04f647b7e87e5eac88a2') in 0.006685 seconds 
+  Import took 0.009367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007860 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch end 1.wav
+  artifactKey: Guid(aac7fe48a39af6e46a2d48c5d2655976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Audio/Crouch/Crouch end 1.wav using Guid(aac7fe48a39af6e46a2d48c5d2655976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26fa626e37c916bc2ce7015891b34cf1') in 0.011577 seconds 
+  Import took 0.014221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126844 seconds.
+  path: Assets/Prefabs/Houses_Pack/Textures/House_3.psd
+  artifactKey: Guid(3fce462d7b8ebb34bb58adf55645f2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Textures/House_3.psd using Guid(3fce462d7b8ebb34bb58adf55645f2f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6764ac5af87df36f35ef3a826f58fca0') in 0.043258 seconds 
+  Import took 0.047575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008301 seconds.
+  path: Assets/Prefabs/Horror Hospital Pack/Models/Lamp/mLamp.mat
+  artifactKey: Guid(0529c95baad5a264787a242f949623c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Hospital Pack/Models/Lamp/mLamp.mat using Guid(0529c95baad5a264787a242f949623c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc131c21d32a84d651c28b41f2d73df') in 0.015179 seconds 
+  Import took 0.017874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015044 seconds.
+  path: Assets/Scripts/Controller_Scenes.cs
+  artifactKey: Guid(fae00dd74c6232f478372321849c50c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Controller_Scenes.cs using Guid(fae00dd74c6232f478372321849c50c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a342b3fa6d37487df918268dfbd41e61') in 0.006729 seconds 
+  Import took 0.009312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006659 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/FirstPersonMovement.cs
+  artifactKey: Guid(97fca36bd81de7c4cafce7bbf02ca611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/FirstPersonMovement.cs using Guid(97fca36bd81de7c4cafce7bbf02ca611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8873635e997cdaa9ca5429ca986c6cb') in 0.006260 seconds 
+  Import took 0.008832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063387 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_M.tga
+  artifactKey: Guid(4b37689a686d65946bcdd617ca41bf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Med_box_01_M.tga using Guid(4b37689a686d65946bcdd617ca41bf1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b48111e95edc117c3d8b807345c020b') in 0.014709 seconds 
+  Import took 0.017666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008585 seconds.
+  path: Assets/Scripts/Loaders.cs
+  artifactKey: Guid(89ca15aa79d05934283a5a19c6018f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Loaders.cs using Guid(89ca15aa79d05934283a5a19c6018f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3434e9614f1f8f060323ab51bec21ea2') in 0.006189 seconds 
+  Import took 0.008751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008886 seconds.
+  path: Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_Emission.png
+  artifactKey: Guid(84a82b04c39f4ce49bf898280add1842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Textures/survivaltools2_Flashlight_Emission.png using Guid(84a82b04c39f4ce49bf898280add1842) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55319add9ffd88422536058b11862257') in 0.015148 seconds 
+  Import took 0.018955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014563 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G.png
+  artifactKey: Guid(1169160aab534cd4aaf32738057f4341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_G.png using Guid(1169160aab534cd4aaf32738057f4341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2a9d75122faed0012a7a4071e30aae') in 0.013040 seconds 
+  Import took 0.016420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020631 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_C.TGA
+  artifactKey: Guid(7b98973f5058c8d489993665865ac405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Tile02_C.TGA using Guid(7b98973f5058c8d489993665865ac405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28eb1e2214ac119c815185b24696e530') in 0.011954 seconds 
+  Import took 0.014642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010750 seconds.
+  path: Assets/Prefabs/Houses_Pack/Models/House_3.FBX
+  artifactKey: Guid(1875dbcb933847e438464aa6d4c6dc32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Models/House_3.FBX using Guid(1875dbcb933847e438464aa6d4c6dc32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd670ad871f47cc6fe34d1120169b5e17') in 0.072806 seconds 
+  Import took 0.077223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027532 seconds.
+  path: Assets/Prefabs/Houses_Pack/Materials/House_1.mat
+  artifactKey: Guid(ad9941c6ea64c2d439db45a3b24cc172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Houses_Pack/Materials/House_1.mat using Guid(ad9941c6ea64c2d439db45a3b24cc172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406ea2ca6018798de314c29adf391185') in 0.045042 seconds 
+  Import took 0.048977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008723 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_3_MetallicSmoothness.png
+  artifactKey: Guid(d09a6bfafada8ee4f93664ebebd56bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Textures/Ambulance_Ambulance_3_MetallicSmoothness.png using Guid(d09a6bfafada8ee4f93664ebebd56bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '680668c564de4aaede9f41842cfc8f5c') in 0.012553 seconds 
+  Import took 0.015117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.340516 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_N.tga
+  artifactKey: Guid(ac78e263370d86646b803867f58812db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Bed_Metal_01_N.tga using Guid(ac78e263370d86646b803867f58812db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b25f6392b25f97f97f5a22c1041ce9ad') in 0.022094 seconds 
+  Import took 0.025215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008385 seconds.
+  path: Assets/Scenes/Proyecto/Scene2 Proyecto.unity
+  artifactKey: Guid(8922a26fc08b6a245a05f7e6f2337826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Proyecto/Scene2 Proyecto.unity using Guid(8922a26fc08b6a245a05f7e6f2337826) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '636fdf86cdbec87bc37fc652a29a6792') in 0.007023 seconds 
+  Import took 0.009773 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027330 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Module_DoorRoom_02.obj
+  artifactKey: Guid(2e7ceb9bdea64d749a31eaaf90027994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Models/SM_Module_DoorRoom_02.obj using Guid(2e7ceb9bdea64d749a31eaaf90027994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75494bcd2447ca159da606eb874dbdb3') in 0.074278 seconds 
+  Import took 0.077002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008111 seconds.
+  path: Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/RoadBlocks/RoadBlock_B.prefab
+  artifactKey: Guid(68168b1d080f7ff4da5ac899be391c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/LowpolyStreetPack/Prefabs/StreetProps/RoadBlocks/RoadBlock_B.prefab using Guid(68168b1d080f7ff4da5ac899be391c39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1c0cbc6dcf5eba1779dfc47c837715e') in 0.039731 seconds 
+  Import took 0.043398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051872 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding.tga
+  artifactKey: Guid(65fc25f6168a5594f8e69299285e76d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding.tga using Guid(65fc25f6168a5594f8e69299285e76d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5676ab04b4bd104ed2606f37670474a') in 0.017969 seconds 
+  Import took 0.020663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008098 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+  artifactKey: Guid(91b8ba3d52e041fab2d0e0f169855539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs using Guid(91b8ba3d52e041fab2d0e0f169855539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b453a9e2c68f62be5e430fc991c1f72') in 0.006321 seconds 
+  Import took 0.009820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050563 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_A.tga
+  artifactKey: Guid(6a09d6b8923975e4b9af12a04e9d39fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_Door_01_A.tga using Guid(6a09d6b8923975e4b9af12a04e9d39fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142764b44ec701683961db2c9fa6a76a') in 0.013442 seconds 
+  Import took 0.016111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007893 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+  artifactKey: Guid(c3c1afeda5e545e0b19add5373896d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs using Guid(c3c1afeda5e545e0b19add5373896d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c148ad5b888739eaac2982376f9a0811') in 0.006241 seconds 
+  Import took 0.008713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007587 seconds.
+  path: Assets/Prefabs/Survival Tools/Meshes/flashlight.fbx
+  artifactKey: Guid(38c8e162cafdc5f4bb9150c28d0f1fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Survival Tools/Meshes/flashlight.fbx using Guid(38c8e162cafdc5f4bb9150c28d0f1fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b373ed0e28ae8daf07261b0ff38c44') in 0.024164 seconds 
+  Import took 0.026764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007726 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Prefabs/Ambulance.prefab
+  artifactKey: Guid(8bca9680d1e10f044b60f8d4de3f0e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Prefabs/Ambulance.prefab using Guid(8bca9680d1e10f044b60f8d4de3f0e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7af35df47e487625fa65e36bc9b0f85b') in 0.210171 seconds 
+  Import took 0.220919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051886 seconds.
+  path: Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_N.tga
+  artifactKey: Guid(e6c17b59ff07a9e49990101f18210ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dnk_Dev/HospitalHorrorPack/Textures/T_BedBedding_N.tga using Guid(e6c17b59ff07a9e49990101f18210ea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670e33f6be5ad640ad7ab0ed066bd925') in 0.016268 seconds 
+  Import took 0.019160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013989 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/Textures/girders-1.tga
+  artifactKey: Guid(5a5068042d5effb4d8d3a114a7ed822f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/Textures/girders-1.tga using Guid(5a5068042d5effb4d8d3a114a7ed822f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b1c3a3a503280efeaab6379a8267f1e') in 0.009935 seconds 
+  Import took 0.012897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007806 seconds.
+  path: Assets/Prefabs/Mini First Person Controller/Scripts/Components/GroundCheck.cs
+  artifactKey: Guid(084c01ab381b9da4082c1f84cf70751b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Mini First Person Controller/Scripts/Components/GroundCheck.cs using Guid(084c01ab381b9da4082c1f84cf70751b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '305dd7345a5caed8f7a58311988efba3') in 0.006327 seconds 
+  Import took 0.008967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006761 seconds.
+  path: Assets/Prefabs/Ambulance - Free hospital props/Models/Prefabs/Couch_1.prefab
+  artifactKey: Guid(ff3323408144e334ba2c099533ad8e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ambulance - Free hospital props/Models/Prefabs/Couch_1.prefab using Guid(ff3323408144e334ba2c099533ad8e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658165d1299bd06d0b9038aad885a35b') in 0.100230 seconds 
+  Import took 0.106011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.069829 seconds.
+  path: Assets/Prefabs/Horror Assets/Textures/WheelChair_MetallicSmoothness.png
+  artifactKey: Guid(47ee31e6c4756a340a288bfc456ea57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Horror Assets/Textures/WheelChair_MetallicSmoothness.png using Guid(47ee31e6c4756a340a288bfc456ea57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cee550b16b036f07ec275873754bf4f') in 0.017602 seconds 
+  Import took 0.020710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008077 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+  artifactKey: Guid(1312ae25639a4bae8e25ae223209cc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs using Guid(1312ae25639a4bae8e25ae223209cc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47aaf2fb6401b82a8a33b69b9b9e87b') in 0.006400 seconds 
+  Import took 0.008938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006819 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+  artifactKey: Guid(e8538afcddc14efbb5d9e94b7ae50197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs using Guid(e8538afcddc14efbb5d9e94b7ae50197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48d0e751cea2075723b6c44547972aa') in 0.006359 seconds 
+  Import took 0.008887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018500 seconds.
+  path: Assets/Prefabs/Assets_StorageBuilding/storage_building-1.prefab
+  artifactKey: Guid(08f2afcbabf60c440a0b5785d59e06c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Assets_StorageBuilding/storage_building-1.prefab using Guid(08f2afcbabf60c440a0b5785d59e06c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbef17a4b99c1731f5d61d5812726fd2') in 0.015647 seconds 
+  Import took 0.018384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009872 seconds.
+  path: Assets/Textures/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec1587b7129bde4b287cc77833a66ca') in 0.255322 seconds 
+  Import took 0.258910 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
